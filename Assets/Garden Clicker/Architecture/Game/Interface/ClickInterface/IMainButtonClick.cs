@@ -1,0 +1,4 @@
+interface IMainButtonClick
+{
+    void MainButtonClick();
+}
